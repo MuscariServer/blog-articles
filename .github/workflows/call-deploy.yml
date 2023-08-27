@@ -14,5 +14,5 @@ jobs:
             -X POST \
             -H "Authorization: token ${TOKEN}" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/MuscariServer/muscari-web/actions/workflows/deploy-article.yml/dispatches \
+            https://api.github.com/repos/MuscariServer/muscari-web/dispatches \
             -d '{"event_type":"update-articles"}'
