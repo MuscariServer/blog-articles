@@ -70,5 +70,5 @@ date: 2023-09-18 15:00:00 +0900
 
 |  Mod名   | 許可サーバー  | URL  |
 | :------: | :---: | :---: |
-|   OptiFine   | ALL |   [Optifine](https://optifine.net/downloads)  |
-|   OAuth   | ALL |  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oauth)   |
+|   OptiFine   | All |   [Optifine](https://optifine.net/downloads)  |
+|   OAuth   | All |  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oauth)   |
