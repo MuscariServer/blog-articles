@@ -67,7 +67,7 @@ date: 2024-07-14 01:50:00 +0900
 #published: false
 ---
 
-![launch New Content](https://muscari.f5.si/blog/assets/img/posts/launch_new_content.png){: .img-responsive}
+![Launch New Content](https://muscari.f5.si/blog/assets/img/posts/new-content.png){: .img-responsive}
 
 - 目次
   
